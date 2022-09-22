@@ -1,0 +1,269 @@
+.navbar{
+    padding: 0 55px;
+    background-color: white;
+}
+
+.navbar-brand{
+    padding: 16px 7px 16px 10px;
+    margin-right: 6px;
+}
+.nav-link{
+    color: black;
+    font-size: 12px;
+    padding: 16px 8px 10px 8px;
+
+}
+.nav-link:hover{
+    color: black;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+.nav-link1{
+    color: black;
+    font-size: 12px;
+    padding: 15px 9px 20px 9px;
+
+}
+.nav-link1:hover{
+    color: black;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+.caroselbutton{
+    margin-top: 20px; ;
+    text-align: center;
+}
+.carousel-caption{
+    position: absolute;
+    text-align: left;
+    top: 120px;
+    left:90px;
+    color: black;
+    padding: 0;
+    padding-right: 520px;
+    z-index: 2;
+}
+.carousel-item{
+    position: relative;
+    text-align: center;
+}
+.link1{
+    text-decoration: none;
+}
+.link1:hover{
+    text-decoration: underline;
+}
+.carousel-caption h5{
+    padding: 0 0 12px 0;
+    font-size: 30px;
+}
+.carousel-caption p{
+    margin-bottom:20px;
+}
+.carousel-caption button{
+    background-color: #0067b8;
+    border-radius: 0;
+    margin-bottom: 10px;
+}
+.carousel-control-prev{
+    position: absolute;
+    z-index: 1;
+    top: 90%;
+}
+.carousel-control-next{
+    position: absolute;
+    z-index: 1;
+    top: 90%;
+}
+.carousel-control-prev-icon{
+    background-color: #0067b8;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.carousel-control-next-icon{
+    background-color: #0067b8;
+    margin-right: 60px;
+    margin-top: 10px;
+}
+.tablelogo{
+    text-align: center;
+    /* margin-left: 155px; */
+    margin: 50px 150px;
+}
+.tabledata{
+    padding: 15px ;
+    color: #0067b8;
+}
+.tabledata img{
+    padding: 10px ;
+}
+.producttable{
+    margin: 0 50px;
+}
+
+.producttd{
+    padding: 10px;
+
+}
+.producttd1{
+    margin-top: 24px;
+}
+.producttd2{
+    padding-top: 42px;
+}
+.producttd p {
+    font-size: 14px;
+}
+td div h5{
+    margin-bottom: 12px;
+    font-size: 22px;
+}
+td div a{
+    margin:20px 0;
+    color: #0067b8;
+}
+.image{
+    margin: 30px 0;
+}
+.card1{
+    text-align: left;
+    width: 25%;
+    border: 0;
+    padding: 0 8px;
+}
+.card1 img{
+    width: 100%;
+}
+.card-body1{
+    padding: 0;
+}
+.card-body1 h5{
+    font-size: 22px;
+    margin-bottom: 14px ;
+}
+.card-body1 a{
+    padding: 12px 0;
+    color: #0067b8;
+    text-decoration: 0;
+}
+.card-body1 a:hover{
+    text-decoration: underline;
+}
+.card-body1 p{
+    font-size: 14px;
+}
+.row1{
+    margin: 95px 65px;
+}
+.badge{
+    border: none;
+    border-radius: 0;
+}
+div h5{
+    margin-bottom: 2px;
+}
+.Microsoft-Edge img{
+    text-align: center;
+    margin: 0 73px 0px 73px;
+    width: 854px;
+    height: 512px;
+}
+.Microsoft-Edge{
+    position: relative;
+
+}
+.cardtext{
+    background-color: white;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    z-index: 1;
+    width: 29%;
+    border-radius: 0;
+    /* box-shadow: 0px 0px 10px #00000083; */
+    box-shadow: 0 0.0625rem 0.125rem rgb(0 0 0 / 11%), 0 0.1875rem 0.4375rem rgb(0 0 0 / 13%);
+
+}
+.cardtext h5{
+    font-size: 28px;
+    margin-bottom: 16px;
+}
+.cardtext p{
+    font-size: 13px;
+    margin-bottom: 14px;
+    line-height: 1.7;
+}
+.cardtext button{
+    margin: 8px 0;
+    border-radius: 0;
+    background-color: #0067b8;
+}
+.cardbody{
+    padding: 35px 35px;
+}
+.row1 h2{
+    padding: 0 12px 6px 6px;
+}
+.social img{
+    margin-right:12px;
+    height: 32px;
+    width: 32px;
+}
+.row2{
+    background-color: #F2F2F2;
+    margin: 0;
+    padding-left: 38px;
+}
+.card2{
+    background-color: #F2F2F2;
+    border: none;
+    text-align: left;
+    padding: 0 10px 50px 10px;
+    width: 16%;
+}
+.card2 h5{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.74);
+}
+.card2 a{
+    font-size: 10px;
+    color: #000000b0;
+    text-decoration: none;
+    padding: 0;
+    width: 100%;
+}
+.card2 a:hover{
+    color: black;
+    text-decoration: underline;
+}
+.card-body2{
+    padding: 16px 4px;
+    width: 100%;
+}
+footer{
+    background-color: #F2F2F2;
+    padding: 30px 4px 16px 47px;
+}
+footer .span2{
+    padding-left: 32%;
+    font-size: 11px;
+}
+footer a{
+    font-size: 11px;
+    color: #000000b0;
+    text-decoration: none;
+    padding: 0;
+    width: 100%;
+}
+footer a:hover{
+    color: black;
+    text-decoration: underline;
+}
+footer ul li{
+    text-decoration: none;
+}
+.list-inline-item{
+    margin-right: 0.8rem !important;
+}
